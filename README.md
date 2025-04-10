@@ -19,6 +19,7 @@ Memories is a SwiftUI-based journaling app designed for reflection, mood trackin
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshots](#screenshots)
 - [Demo](#demo)
 - [Credits](#credits)
 - [License](#license)
@@ -78,6 +79,11 @@ Memories is a SwiftUI-based journaling app designed for reflection, mood trackin
 
 ---
 
+##Screenshots
+
+![Screenshots](./screenshot.png)
+
+---
 
 ## Demo
 
